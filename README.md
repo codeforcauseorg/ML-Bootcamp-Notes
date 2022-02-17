@@ -1,4 +1,4 @@
-# ML-Bootcamp-Notes
+
 <p align="center">
  <img alt="Project logo" height="80" src="https://raw.githubusercontent.com/iamrahulmahato/call-list/main/static/img/add-readme.png">
 </p>
